@@ -1,5 +1,5 @@
 # WebServer
-*Evilrise7 это на самом деле Aniyar, просто когда со школьного компа коммитила прошло через другой аккаунт*
+*Evilrise7's commits are Aniyar's commits. Aniyar accidentally committed from his account while using school computer*
 
 Mytwitter
 -------------------------------------------------------------------
